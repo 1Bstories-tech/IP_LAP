@@ -1,0 +1,10 @@
+datasets/*
+tensorboard_runs/*
+test_result/*
+tempfile_of_test_result/*
+test/checkpoints/*
+test/template_video/*
+checkpoints/*
+.vscode/*
+Pipfile
+face_landmarker_v2_with_blendshapes.task
