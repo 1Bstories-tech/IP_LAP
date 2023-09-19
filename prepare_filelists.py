@@ -5,11 +5,11 @@
 import os
 import random
 
-filelist_name = "lombardgrid"
-path = "datasets/lombardgrid_landmarks"
+filelist_name = "avspeech"
+path = "datasets/avspeech_landmarks"
 filelists = ["train.txt", "test.txt"]
 
-test_percent = 0.026
+test_percent = 0.0264
 
 # List folders in the directory
 folders = os.listdir(path)
