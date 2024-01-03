@@ -8,3 +8,6 @@ checkpoints/*
 .vscode/*
 Pipfile
 face_landmarker_v2_with_blendshapes.task
+nohup*
+__pycache__/
+filelists/*
